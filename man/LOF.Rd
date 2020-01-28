@@ -4,13 +4,19 @@
 \alias{LOF}
 \title{Local Outlier Factor (LOF)}
 \usage{
-LOF(U, seq_k = c(4, 10, 30), combine = max, robMaha = FALSE,
-  log = TRUE, ncores = 1)
+LOF(
+  U,
+  seq_k = c(4, 10, 30),
+  combine = max,
+  robMaha = FALSE,
+  log = TRUE,
+  ncores = 1
+)
 }
 \arguments{
 \item{U}{A matrix, from which to detect outliers (rows). E.g. PC scores.}
 
-\item{seq_k}{Sequence of numbers of nearest neighbours to use.
+\item{seq_k}{Sequence of numbers of nearest neighbors to use.
 If multiple \code{k} are provided, this returns the combination of statistics.
 Default is \code{c(4, 10, 30)} and use \code{max} to combine (see \code{combine}).}
 
@@ -50,5 +56,5 @@ Breunig, Markus M., et al. "LOF: identifying density-based local outliers."
 ACM sigmod record. Vol. 29. No. 2. ACM, 2000.
 }
 \seealso{
-\code{\link[=prob_dist]{prob_dist()}} \code{\link[=to_maha]{to_maha()}}
+\code{\link[=prob_dist]{prob_dist()}}
 }
