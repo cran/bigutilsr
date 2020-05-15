@@ -1,7 +1,7 @@
 Package: bigutilsr
 Title: Utility Functions for Large-scale Data
-Version: 0.3.0
-Date: 2020-01-28
+Version: 0.3.2
+Date: 2020-05-15
 Authors@R: 
   person("Florian", "Privé", 
          email = "florian.prive.21@gmail.com", 
@@ -21,8 +21,8 @@ Imports: bigassertr (>= 0.1.1), bigparallelr (>= 0.2.3), nabor, Rcpp,
         robustbase, RSpectra, stats
 Suggests: covr, mvtnorm, rrcov, spelling, testthat (>= 2.1.0)
 NeedsCompilation: yes
-Packaged: 2020-01-28 12:12:57 UTC; au639593
+Packaged: 2020-05-15 20:55:35 UTC; au639593
 Author: Florian Privé [aut, cre]
 Maintainer: Florian Privé <florian.prive.21@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-01-28 12:40:06 UTC
+Date/Publication: 2020-05-15 21:30:02 UTC

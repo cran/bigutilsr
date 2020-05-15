@@ -1,8 +1,8 @@
-f3a9584f954cdf74214c62fbee0ba166 *DESCRIPTION
+4f0b5c755c958e7514222dfa60e456a1 *DESCRIPTION
 29b5098b37e79488e987bc82f433b3ad *NAMESPACE
 90acf4e60398249d09b1c0245fe53944 *R/KNN.R
-535bb49f9d414420315d6bf3e0ca023d *R/OGK.R
-2c8fb5b637c446725ffefd5d71d7039c *R/RcppExports.R
+552751e8cf186b86b00eacb4cdc3ba97 *R/OGK.R
+f1d7ad35a1699bb5582fc7ee85c858e0 *R/RcppExports.R
 ac4f69caf670ade7162ddd438e976fb9 *R/bigutilsr-package.R
 17fe2c8ee1d3bc3731e80b0d3cc8871f *R/outlier-dist.R
 ba20adc5de407722036c271841d1626b *R/outlier-hist.R
@@ -10,7 +10,7 @@ d34c236284c79c8330fd15720df107cd *R/outlier-tukey.R
 93e64228c492404aa200ca3fc714c322 *R/pca-project.R
 3e9cce05304bb74c4b7569bc0bd9823e *R/procrustes.R
 bb7bfa426fe0e5e64b51b57e98938b69 *R/reexports.R
-31452d96edbe9c3b2a6c9973f5b5b509 *R/rollmean.R
+7f9c5541bf80ac22c6cbccd502294648 *R/rollmean.R
 1feaf55059ccec531eabc008a98ab71e *R/utils.R
 1f442bc637ab5f6b2151850033cfb0c2 *README.md
 d726d3892c93e2a609f0fe908f658ba6 *inst/WORDLIST
@@ -30,10 +30,10 @@ d79fdcb7aa8e46add98fc117185baf14 *man/pca_nspike.Rd
 3eecc1fdb10ccbd9ba0486b444d9a74a *man/prob_dist.Rd
 29c23120655207d2227c89e41b686197 *man/procrustes.Rd
 6b5ccea7d56d5614a4447b4909ce3c9a *man/reexports.Rd
-5fa40d6e64eda7bd1bf86c9db150759a *man/rollmean.Rd
+a0c85eef88aa56036a5313ca30b49481 *man/rollmean.Rd
 d51241831279121d6644f8d3572f0e6b *man/tukey_mc_up.Rd
-fe0628c6080a0abf61d2c43a38e74417 *src/RcppExports.cpp
-939547ea6cfbdccdffdbc270bb67c65a *src/ogk.cpp
+865f77932d7d0ebc5dfd8f5231beacad *src/RcppExports.cpp
+66f1e347e2f3245e3fc8d5045f71f550 *src/ogk.cpp
 2ffb1fe6bc67795667658e07c057ceb3 *src/rollmean.cpp
 3556995ef94818e320f8da71349052a4 *src/rowSumsSq.cpp
 332173f20d20942c02019350ea4dcadc *tests/spelling.R
